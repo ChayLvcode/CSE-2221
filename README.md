@@ -5,7 +5,8 @@ Leave me a meesage if there is any wrong in it.
 
 Describe for projects:
 
-
+Project 1: Create Your Own Home Page
+The lingua franca of the web is HTML: Hyper Text Markup Language. Your job is to learn enough about well-formed HTML to create a personal home page that includes the following elements: at least one heading, at least one paragraph, at least one image (e.g., a picture of yourself), at least one ordered or unordered list, at least one table (e.g., information about yourself that you are willing to share publicly), and at least one hyperlink to an external page.
 
 
 
